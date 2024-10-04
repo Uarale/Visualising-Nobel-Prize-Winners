@@ -1,7 +1,7 @@
 # Visualising the history of nobel prize winners
 
 ## Project Overview
-The Nobel Prize has been among the most prestigious international awards since 1901. Each year, awards are bestowed in chemistry, literature, physics, physiology or medicine, economics, and peace. In addition to the honor, prestige, and substantial prize money, the recipient also receives a gold medal featuring an image of Alfred Nobel (1833 - 1896), the founder of the prize. 
+The Nobel Prize has been among the most prestigious international awards since 1901. Each year, awards are bestowed in chemistry, literature, physics, physiology or medicine, economics, and peace. In addition to the honor, prestige, and substantial prize money, the recipient also receives a gold medal featuring an image of Alfred Nobel, the founder of the prize. 
 
 This project utilizes a comprehensive dataset from the Nobel Prize API, recovered through DataCamp.com, documenting all prize winners from the inception of the awards in 1901 up until 2019. 
 
