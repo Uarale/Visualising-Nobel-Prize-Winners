@@ -19,7 +19,7 @@ This project was developed using Python, along with several essential libraries:
 - **Pandas** for data manipulation and analysis
 - **NumPy** for numerical operations
 - **Matplotlib** for basic plotting
-- **Seaborn** for visualizations, it is built on top of Matplotlib
+- **Seaborn** for visualizations, a package built on top of Matplotlib
 
 ## Process
 1. **Data Collection:** I sourced the dataset from DataCamp, which includes detailed information about the nobel prize winners.
