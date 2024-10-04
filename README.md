@@ -9,7 +9,7 @@ This project utilizes a comprehensive dataset from the Nobel Prize API, recovere
 This analysis aims to explore the trends and insights regarding Nobel Prize winners over the years. By examining factors such as gender representation, nationalities, and the frequency of awards in different contexts, we can gain a deeper understanding of the impact and evolution of the Nobel Prize throughout its history.
 
 ## Challenges
-Throughout the course of this project, I faced several challenges:
+Throughout the course of this project, I faced a couple of challenges:
 
 - **Missing Values:** A significant portion of the dataset contained missing values. I addressed this by dropping all rows with missing values to ensure the accuracy of the analysis. Although i admit, this isnt always the solution.
 - **Data Visualization:** This was my first experience visualizing data with Seaborn. Initially, I found it challenging, but as I progressed, I became more comfortable with the library's capabilities and features.
