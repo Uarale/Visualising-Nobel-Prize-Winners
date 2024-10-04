@@ -6,7 +6,7 @@ The Nobel Prize has been among the most prestigious international awards since 1
 This project utilizes a comprehensive dataset from the Nobel Prize API, recovered through DataCamp.com, documenting all prize winners from the inception of the awards in 1901 up until 2019. 
 
 ## Motivation
-This analysis aims to explore the trends and insights regarding Nobel Prize winners over the years. By examining factors such as gender representation, nationalities, and the frequency of awards in different contexts, we can gain a deeper understanding of the impact and evolution of the Nobel Prize throughout history.
+This analysis aims to explore the trends and insights regarding Nobel Prize winners over the years. By examining factors such as gender representation, nationalities, and the frequency of awards in different contexts, we can gain a deeper understanding of the impact and evolution of the Nobel Prize throughout its history.
 
 ## Challenges
 Throughout the course of this project, I faced several challenges:
